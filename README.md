@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shanto Karmoker
 #### Web Designer
-![Web Designer](https://media.licdn.com/dms/image/D5616AQGYu_7t-mBq5Q/profile-displaybackgroundimage-shrink_350_1400/0/1679426472672?e=1684972800&v=beta&t=l78eeNJjr3hv5KdYrdjgM2BDY_QAhtMvhDdyHwgqk64)
+![Web Designer](https://media.licdn.com/dms/image/D5616AQGYu_7t-mBq5Q/profile-displaybackgroundimage-shrink_350_1400/0/1679426472672?e=1692835200&v=beta&t=LFJ4ZqWSRCT-ZkTC_JwU1RqW7uscKwL52EKy8RE-g8o)
 
 Using my potential in the field of 'Web Design' to gain confidence and reputation and express my innovative creative skills for self and company growth.
 Hi, I am 'Shanto Karmoker'. I am a 'Web Designer'. I am determined to become a skilled and professional developer in the software industry. I learned web design and joined web development in 2022. I have proper knowledge in this field.
