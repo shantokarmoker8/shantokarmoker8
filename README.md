@@ -1,4 +1,4 @@
-# Hi there, I'm Shanto 👋  
+# Hi there, I'm Shanto Karmoker 👋  
 
 💻 **MERN Stack Developer** | 🌐 Web Enthusiast | 🚀 Lifelong Learner  
 
@@ -26,14 +26,6 @@
 
 ### 🔧 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)    ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-
-
----
-
-## 📊 GitHub Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantokarmoker8&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shantokarmoker8&theme=radical)  
 
 ---
 
