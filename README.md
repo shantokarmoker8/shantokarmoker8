@@ -1,32 +1,61 @@
-### Hi there 👋, I'm Shanto Karmoker
-#### Web Designer
-[![Web Designer](https://media.licdn.com/dms/image/D5616AQFXtgc4OkOTow/profile-displaybackgroundimage-shrink_350_1400/0/1717946058753?e=1723680000&v=beta&t=LkdkCPLL8K9yjr5t_hvku-6KOm6XTXBOiKycWDJGdhw)
+# Hi there, I'm Shanto 👋  
 
-Using my potential in the field of 'Web Design' to gain confidence and reputation and express my innovative creative skills for self and company growth.
-Hi, I am 'Shanto Karmoker'. I am a 'Web Designer'. I am determined to become a skilled and professional developer in the software industry. I learned web design and joined web development in 2022. I have proper knowledge in this field.
+💻 **MERN Stack Developer** | 🌐 Web Enthusiast | 🚀 Lifelong Learner  
 
-Skills: HTML5 / CSS3/ Bootstrap5 / JavaScript / jQuery / PSD to HTML Conversion
+---
 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Design 
+## 🚀 About Me  
+- 🔭 I’m currently working on **MERN Stack Projects**  
+- 🌱 Learning **Advanced JavaScript, React & Node.js**  
+- 👯 Looking to collaborate on **Open Source Projects**  
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**  
+- ⚡ Fun fact: I love turning **ideas into real-world applications**  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+### ⚙️ Backend  
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+
+### 🗄️ Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+### 🔧 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shantokarmoker8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shantokarmoker8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shantokarmoker8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shantokarmoker8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shantokarmoker8) 
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## 📊 GitHub Stats  
+![Shanto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shantokarmoker8&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantokarmoker8&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shantokarmoker8&theme=radical)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shantokarmoker8)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantokarmoker8)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Connect with me  
+- 📧 Email: **shantokarmoker8@gmail.com**  
+- 💼 LinkedIn: [@shantokarmoker8](https://linkedin.com/in/shantokarmoker8)  
+- 🐦 Twitter: [@shantokarmoker8](https://twitter.com/shantokarmoker8)  
+- 💻 GitHub: [@shantokarmoker8](https://github.com/shantokarmoker8)  
+- 🌎 Portfolio: [shantokarmoker8.github.io](https://shantokarmoker8.github.io)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shantokarmoker8&show_icons=true&count_private=true)  
+---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shantokarmoker8)  
-
-![GitHub metrics](https://metrics.lecoq.io/shantokarmoker8)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shantokarmoker8)  
-
-![Profile views](https://gpvc.arturio.dev/shantokarmoker8)  
+⭐️ From [shantokarmoker8](https://github.com/shantokarmoker8)
