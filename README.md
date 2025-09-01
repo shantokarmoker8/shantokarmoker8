@@ -30,7 +30,7 @@
 ---
 
 ## 🌐 Connect with me  
-- 📧 Email: *shantokarmoker8@gmail.com*
+- 📧 Email: shantokarmoker8@gmail.com
 - 💼 LinkedIn: [@shantokarmoker8](https://linkedin.com/in/shantokarmoker8)  
 - 🐦 Twitter: [@shantokarmoker8](https://twitter.com/shantokarmoker8)  
 - 💻 GitHub: [@shantokarmoker8](https://github.com/shantokarmoker8)  
