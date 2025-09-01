@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantokarmoker8&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantokarmoker8&layout=compact&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantokarmoker8&layout=donut)](https://github.com/shantokarmoker8/github-readme-stats)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shantokarmoker8&theme=radical)  
 
 ---
