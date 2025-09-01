@@ -43,7 +43,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Shanto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shantokarmoker8&show_icons=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantokarmoker8&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantokarmoker8&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shantokarmoker8&theme=radical)  
 
