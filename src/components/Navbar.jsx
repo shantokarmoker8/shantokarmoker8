@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function Navbar() {
-  return <div>nnav</div>;
+  return <div>navbar</div>;
 }
