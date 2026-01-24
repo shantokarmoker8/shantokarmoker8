@@ -240,13 +240,36 @@
         cursor: pointer;
         white-space: nowrap;
       }
+      .whatsapp-button {
+        display: inline-block;
+        padding: 0.9rem 2.5rem;
+        background: linear-gradient(135deg, #3bf673 0%, #f1f5f9 100%);
+        color: #0f172a;
+        text-decoration: none;
+        border-radius: 50px;
+        font-weight: 600;
+        font-size: clamp(0.9rem, 2vw, 1rem);
+        transition:
+          transform 0.3s ease,
+          box-shadow 0.3s ease;
+        border: none;
+        cursor: pointer;
+        white-space: nowrap;
+      }
 
       .cta-button:hover {
         transform: translateY(-3px);
         box-shadow: 0 10px 30px rgba(59, 130, 246, 0.4);
       }
+      .whatsapp-button:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 30px rgba(59, 130, 246, 0.4);
+      }
 
       .cta-button:active {
+        transform: translateY(-1px);
+      }
+      .whatsapp-button:active {
         transform: translateY(-1px);
       }
 
@@ -722,6 +745,7 @@
           MySQL.
         </p>
         <a href="#contact" class="cta-button">Hire Me</a>
+        <a href="#contact" class="whatsapp-button">WhatsApp</a>
       </div>
     </section>
 
