@@ -7,9 +7,9 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Web Development Projects**
-- 🌱 Learning **HTML, CSS, Tailwind, JavaScript, React, PHP, Node.js**
+- 🌱 Learning **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, PHP, Node.js**
 - 👯 Interested in collaborating on **Web & Full Stack Projects**
-- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, React, PHP, Node, Express, MongoDB**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, PHP, Node, Express, SQL, NoSQL, MySQL, MongoDB**
 - ⚡ Fun fact: I love turning **ideas into real-world applications**
 
 ---
@@ -18,7 +18,7 @@
 
 ### 🌐 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -30,7 +30,15 @@
 
 ### 🛢️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+#### SQL
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
+- Experience with **SQL databases**  
+- Proficient in **MySQL**
+
+#### NoSQL
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+- Experience with **NoSQL databases**  
+- Proficient in **MongoDB**
 
 ---
 
