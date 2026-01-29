@@ -7,9 +7,9 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Web Development Projects**
-- 🌱 Learning **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, PHP, Node.js**
+- 🌱 Learning **HTML, CSS, Tailwind, JavaScript, React, PHP, Node.js**
 - 👯 Interested in collaborating on **Web & Full Stack Projects**
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, PHP, Node, Express, MongoDB**
+- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, React, PHP, Node, Express, MongoDB**
 - ⚡ Fun fact: I love turning **ideas into real-world applications**
 
 ---
